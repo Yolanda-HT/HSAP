@@ -1,0 +1,17 @@
+﻿names,condition,replicate,description
+1,pre_inj,1,Pre-injection Ame+1
+2,sp_Ame,1,Spleen Ame +1
+3,sp_Mp,1,Spleen Mdr1+1
+4,sp_Mn,1,Spleen Mdr1-1
+5,mln_Mp,1,MLN Mdr1 +1
+6,mln_Mn,1,MLN Mdr1 -1
+7,si_Mp,1,Small intestine Mdr1 +1
+8,si_Mn,1,Small intestine Mdr1 -1
+9,pre_inj,2,Pre-injection Ame+2
+10,sp_Ame,2,Spleen Ame +2
+11,sp_Mp,2,Spleen Mdr1 +2
+12,sp_Mn,2,Spleen Mdr1 -2
+13,mln_Mp,2,MLN Mdr1 +2
+14,mln_Mn,2,MLN Mdr1 -2
+15,si_Mp,2,Small intestine Mdr1+2
+16,si_Mn,2,Small intestine Mdr1-2
